@@ -15,7 +15,6 @@ body {
 }
 
 .header {
-  
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
@@ -376,7 +375,6 @@ body {
 }
 
 .footer__column-links {
-  
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
