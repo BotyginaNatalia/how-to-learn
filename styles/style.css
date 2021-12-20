@@ -231,6 +231,7 @@ body {
   bottom: 90px;
   overflow: hidden;
   background-size: contain;
+  padding-bottom: 90px;
 }
 /* и элемента с модификатором вида ключ-значение */
 .section-title__theme_dark {
@@ -307,7 +308,8 @@ body {
   top: 60px;
   bottom: 40px;
   background-color: black;
-  background-repeat: no-repeat;  
+  background-repeat: no-repeat;
+  padding-top: 60px;  
 }
 
 .footer__columns {
