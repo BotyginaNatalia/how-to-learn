@@ -4,8 +4,8 @@
   }
   to {
     transform: rotate(360deg);
-    }
   }
+}
 
 @keyframes rotation-triangle {
   from {
