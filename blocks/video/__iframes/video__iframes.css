@@ -1,5 +1,6 @@
-.video__iframes {
-    flex: 1 1 auto;
+.video__iframes {    
     padding-top: 50px;
-    margin: 0 20px;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    column-gap: 20px;
   }
