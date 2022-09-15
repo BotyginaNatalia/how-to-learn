@@ -6,4 +6,4 @@ ___
 **HTML, CSS**
 ___
 ## Ссылка:
-https://github.com/BotyginaNatalia/how-to-learn
+https://botyginanatalia.github.io/how-to-learn/
