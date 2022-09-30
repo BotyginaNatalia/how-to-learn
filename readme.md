@@ -1,4 +1,4 @@
-### A long time ago in galaxy far, far away... Первый прокет.
+### A long time ago in galaxy far, far away... Первый учебный проект.
 ___
 # "Научиться учиться".
 ___
